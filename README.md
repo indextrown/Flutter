@@ -19,8 +19,19 @@
 4. [Dart 문법 정리 블로그](https://velog.io/@dolfalf/플러터-개발을-위한-30분-다트Dart문법정리)
    - Dart 언어의 기초 문법을 간결하게 학습할 수 있는 자료입니다.
 
----
 
+## 🛠️ 설치 및 실행 방법
+1. **Flutter 설치**
+   - Flutter 개발 환경 설정: [Flutter 설치 가이드](https://docs.flutter.dev/get-started/install)
+2. **의존성 설치**
+   ```bash
+   flutter pub get
+   ```
+3. **앱 실행**
+   ```bash
+   flutter run
+   ```
+---
 
 <!-- ## 🔧 프로젝트 특징
 - **Flutter 사용**: Google의 오픈소스 UI 툴킷으로 단일 코드베이스로 크로스플랫폼 애플리케이션 개발.
