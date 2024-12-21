@@ -5,7 +5,7 @@
 - **Dart 언어**를 학습하며 다양한 예제를 구현했습니다.
 
 ## 📚 참고 자료
-본 프로젝트는 아래의 참고 자료를 기반으로 설계 및 개발되었습니다.
+이 프로젝트는 아래의 참고 자료를 기반으로 설계 및 개발되었습니다.
 
 1. [Flutter 공식 문서](https://docs.flutter.dev/?_gl=1*zm003m*_up*MQ..*_ga*MTY5NjIxNjM2OC4xNzM0ODA1OTYx*_ga_04YGWK0175*MTczNDgwNTk2MC4xLjAuMTczNDgwNTk2MC4wLjAuMA..)
    - Flutter의 기본 개념, 구조, 및 다양한 기능에 대한 정보를 제공합니다.
