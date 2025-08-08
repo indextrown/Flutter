@@ -23,19 +23,14 @@
 ## 🛠️ 설치 및 실행 방법
 1. **Flutter 설치**
    - Flutter 개발 환경 설정: [Flutter 설치 가이드](https://docs.flutter.dev/get-started/install)
-2. **프로젝트 생성**
+2. **프로젝트 생성 및 실행**
    ```bash
    flutter create <project_name>
    cd <project_name>
-   flutter run
    ```
 3. **의존성 설치**
    ```bash
    flutter pub get
-   ```
-4. **앱 실행**
-   ```bash
-   flutter run
    ```
 ---
 
