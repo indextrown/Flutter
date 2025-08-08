@@ -39,18 +39,18 @@
    ```bash
    flutter pub outdated
    ```
-- 현재 사용 중인 패키지와 최신 버전 비교 결과를 출력합니다.
-- `Resolvable`과 `Latest`를 비교해 업그레이드가 필요한 항목을 확인할 수 있습니다.
+   - 현재 사용 중인 패키지와 최신 버전 비교 결과를 출력합니다.
+   - `Resolvable`과 `Latest`를 비교해 업그레이드가 필요한 항목을 확인할 수 있습니다.
 
 2. **모든 패키지 최신 버전으로 업그레이드**
    ```bash
    flutter pub upgrade --major-versions
    ```
-- 사용 가능한 **최신 주요 버전**까지 자동으로 업데이트합니다.
+   - 사용 가능한 **최신 주요 버전**까지 자동으로 업데이트합니다.
 
 **3. 특정 패키지만 업데이트**
-   예: `flutter_lints` 최신 버전으로 업데이트
    ```bash
    flutter pub add flutter_lints
    ```
-- 기존에 존재하는 패키지도 `pub add`로 실행 시 자동 업데이트됩니다.
+   - 예: `flutter_lints` 최신 버전으로 업데이트
+   - 기존에 존재하는 패키지도 `pub add`로 실행 시 자동 업데이트됩니다.
